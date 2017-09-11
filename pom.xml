@@ -34,6 +34,7 @@
     </licenses>
 
     <modules>
+        <module>online-services</module>
         <module>spring</module>
         <module>spring-session</module>
         <module>carmart</module>
